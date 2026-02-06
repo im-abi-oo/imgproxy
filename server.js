@@ -3,8 +3,8 @@
  * Updated: 2026 Optimized for Edge Persistence & Error Resilience
  */
 
-const SECRET_KEY = "SUPER_SECRET_SAFE_KEY_123456";
-const JSON_CONFIG_URL = "https://raw.githubusercontent.com/im-abi-oo/imgproxy/refs/heads/json/list%2Cjson?token=GHSAT0AAAAAADSYONN4GSFXA7FAIPFIIUWY2MFZ7NQ";
+const SECRET_KEY = "test";
+const JSON_CONFIG_URL = "https://raw.githubusercontent.com/im-abi-oo/imgproxy/refs/heads/json/list.json";
 const BATCH_SIZE = 5; 
 const CACHE_TTL = 2592000; // 30 Days
 
